@@ -1,4 +1,3 @@
-from numpy import angle
 from ultralytics import YOLO
 import supervision as sv
 import pickle
